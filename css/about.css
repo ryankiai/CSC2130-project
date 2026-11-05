@@ -1,0 +1,4 @@
+.navbar{
+    display:flex;/*places children in horizontal mode y default*/
+    gap:20px;
+}
